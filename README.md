@@ -7,7 +7,7 @@ This simple Python script merges two PDF files into one.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/gyanendu01/pdfMerger.git
+    git clone https://github.com/Gyanendu01/PDF-Merger.git
     ```
 
 2. Install dependencies:
